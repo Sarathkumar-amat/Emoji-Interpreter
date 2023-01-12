@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./styles.css";
 
-var color = "blue";
 //var name = prompt("Give me your name");
 var emojiDictionary = {
   "😵": "Dizzy Face",
@@ -9,7 +8,7 @@ var emojiDictionary = {
   "🤠": "Cowboy Hat Face",
   "🤓": "Nerd Face",
   "💀": "Skull",
-  "😑": "annoyance"
+  "😑": "annoyance",
 };
 var emojiList = Object.keys(emojiDictionary);
 
