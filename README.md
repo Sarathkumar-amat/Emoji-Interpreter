@@ -1,2 +1,3 @@
 # Emoji-Interpreter
-Created with CodeSandbox
+Created with CodeSandbox. Finding the meaning of the emojis. created with react.js
+
